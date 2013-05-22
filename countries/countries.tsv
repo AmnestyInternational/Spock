@@ -1,0 +1,236 @@
+alpha-2	alpha-3	numeric	name	altname	adjectivals	demonyms
+AF	 AFG	4	Afghanistan		Afghan, Afghani	Afghans
+AL	 ALB	8	Albania		Albanian	Albanians
+DZ	 DZA	12	Algeria		Algerian	Algerians
+AS	 ASM	16	American Samoa		American Samoan	American Samoans
+AD	 AND	20	Andorra		Andorran	Andorrans
+AO	 AGO	24	Angola		Angolan	Angolans
+AI	 AIA	660	Anguilla		Anguillan	Anguillans
+AG	 ATG	28	Antigua and Barbuda		Antiguan, Barbudan	Antiguans, Barbudans
+AR	 ARG	32	Argentina		Argentine, Argentinean, Argentinian	Argentines, Argentineans, Argentinians
+AM	 ARM	51	Armenia		Armenian	Armenians
+AW	 ABW	533	Aruba		Aruban	Arubans
+AU	 AUS	36	Australia		Australian, Aussie	Australians, Aussies
+AT	 AUT	40	Austria		Austrian	Austrians
+AZ	 AZE	31	Azerbaijan		Azerbaijani, Azeri	Azerbaijanis, Azeris
+BS	 BHS	44	Bahamas		Bahamian	Bahamians
+BH	 BHR	48	Bahrain		Bahraini	Bahrainis
+BD	 BGD	50	Bangladesh		Bangladeshi	Bangladeshis
+BB	 BRB	52	Barbados		Barbadian, Bajan	Barbadians, Bajans
+BY	 BLR	112	Belarus		Belarusian	Belarusians
+BE	 BEL	56	Belgium		Belgian	Belgians
+BZ	 BLZ	84	Belize		Belizean	Belizeans
+BJ	 BEN	204	Benin		Beninese, Beninois	Beninese, Beninois
+BM	 BMU	60	Bermuda		Bermudian, Bermudan	Bermudians, Bermudans
+BT	 BTN	64	Bhutan		Bhutanese	Bhutanese
+BO	 BOL	68	Bolivia		Bolivian	Bolivians
+BA	 BIH	70	Bosnia and Herzegovina		Bosnian, Bosniak, Herzegovinian	Bosnians, Bosniaks, Herzegovinians
+BW	 BWA	72	Botswana		Motswana, Batswana, Botswanan	Batswana, Botswanans
+BR	 BRA	76	Brazil		Brazilian	Brazilians
+BN	 BRN	96	Brunei Darussalam		Bruneian	Bruneians
+BG	 BGR	100	Bulgaria		Bulgarian	Bulgarians
+BF	 BFA	854	Burkina Faso		Burkinabè, Burkinabé	Burkinabè, Burkinabé
+MM	 MMR	104	Myanmar	Burma	Burmese	Bamar, Burmese, Myanma
+BI	 BDI	108	Burundi		Burundian	Burundians
+KH	 KHM	116	Cambodia		Cambodian	Cambodians
+CM	 CMR	120	Cameroon		Cameroonian	Cameroonians
+CA	 CAN	124	Canada		Canadian	Canadians, Canucks
+CV	 CPV	132	Cape Verde		Cape Verdean	Cape Verdeans
+KY	 CYM	136	Cayman Islands		Caymanian	Caymanians
+CF	 CAF	140	Central African Republic		Central African	Central Africans
+TD	 TCD	148	Chad		Chadian	Chadians
+CL	 CHL	152	Chile		Chilean	Chileans
+CN	 CHN	156	China		Chinese	Chinese
+CX	 CXR	162	Christmas Island		Christmas Island	Christmas Islanders
+CC	 CCK	166	Cocos (Keeling) Islands	Cocos Islands, Keeling Islands	Cocos Island, Keeling Island	Cocos Islanders, Keeling Islanders
+CO	 COL	170	Colombia		Colombian	Colombians
+KM	 COM	174	Comoros		Comorian	Comorians
+CG	 COG	178	Congo		Congolese, Congo	Congolese
+CD	 COD	180	Congo		Congolese, Congo	Congolese
+CK	 COK	184	Cook Islands		Cook Island, Cook Islands	Cook Islanders
+CR	 CRI	188	Costa Rica		Costa Rican	Costa Ricans, Ticos
+CI	 CIV	384	Cote d'Ivoire		Ivorian	Ivorians
+HR	 HRV	191	Croatia		Croatian	Croatians, Croats
+CU	 CUB	192	Cuba		Cuban	Cubans
+CW	 CUW	531	Curacao		Curaçao	Curaçaoan
+CY	 CYP	196	Cyprus		Cypriot	Cypriots
+CZ	 CZE	203	Czech Republic		Czech	Czechs
+DK	 DNK	208	Denmark		Danish	Danes
+DJ	 DJI	262	Djibouti		Djiboutian	Djiboutians
+DM	 DMA	212	Dominica		Dominicand	Dominicansd
+DO	 DOM	214	Dominican Republic		Dominicane	Dominicanse, Quisqueyanos
+EC	 ECU	218	Ecuador		Ecuadorian	Ecuadorians
+EG	 EGY	818	Egypt		Egyptian	Egyptians
+SV	 SLV	222	El Salvador		Salvadoran	Salvadorans
+GQ	 GNQ	226	Equatorial Guinea		Equatorial Guinean, Equatoguinean	Equatorial Guineans, Equatoguineans
+ER	 ERI	232	Eritrea		Eritrean	Eritreans
+EE	 EST	233	Estonia		Estonian	Estonians
+ET	 ETH	231	Ethiopia		Ethiopian	Ethiopians
+FK	 FLK	238	Falkland Islands	Malvinas	Falkland Island	Falkland Islanders, Belongers
+FO	 FRO	703	Faroe Islands		Faroese	Faroese
+FJ	 FJI	242	Fiji		Fijian	Fijians
+FI	 FIN	246	Finland		Finnish	Finns
+FR	 FRA	250	France		French	French, Frenchman, Frenchwoman
+GF	 GUF	254	French Guiana		French Guianese	French Guianese
+PF	 PYF	258	French Polynesia		French Polynesian	French Polynesians, Tahitians
+GA	 GAB	266	Gabon		Gabonese	Gabonese
+GM	 GMB	270	Gambia		Gambian	Gambians
+GE	 GEO	268	Georgia		Georgian	Georgians
+DE	 DEU	276	Germany		German	Germans
+GH	 GHA	288	Ghana		Ghanaian	Ghanaians
+GI	 GIB	292	Gibraltar		Gibraltar	Gibraltarians
+GR	 GRC	300	Greece		Greek, Greciang, Hellenic	Greeks, Greciansg, Hellenes
+GL	 GRL	304	Greenland		Greenlandic	Greenlanders
+GD	 GRD	308	Grenada		Grenadian	Grenadians
+GP	 GLP	312	Guadeloupe		Guadeloupe	Guadeloupians
+GU	 GUM	316	Guam		Guamanian	Guamanians
+GT	 GTM	320	Guatemala		Guatemalan	Guatemalans
+GN	 GIN	324	Guinea		Guinean	Guineans
+GW	 GNB	624	Guinea-Bissau		Guinean	Guineans
+GY	 GUY	328	Guyana		Guyanese	Guyanese
+HT	 HTI	332	Haiti		Haitian	Haitians
+VA	 VAT	336	Vatican City	Holy See, Vatican		
+HN	 HND	340	Honduras		Honduran	Hondurans, Catrachos
+HK	 HKG	344	Hong Kong		Hong Kong, Hongkongese	Hongkongers, Hongkongese, Hongkies, Hongers
+HU	 HUN	348	Hungary		Hungarian, Magyar	Hungarians, Magyars
+IS	 ISL	352	Iceland		Icelandic	Icelanders
+IN	 IND	356	India		Indian	Indians
+ID	 IDN	360	Indonesia		Indonesian	Indonesians
+IR	 IRN	364	Iran		Iranian, Persian	Iranians, Persians
+IQ	 IRQ	368	Iraq		Iraqi	Iraqis
+IE	 IRL	372	Ireland		Irish, Southern Irish	Irish, Southern Irish
+IM	 IMN	833	Isle of Man		Manx	Manx
+IL	 ISR	376	Israel		Israeli	Israelis
+IT	 ITA	380	Italy		Italian, Italicf	Italians, Italicsf
+JM	 JAM	388	Jamaica		Jamaican	Jamaicans
+JP	 JPN	392	Japan		Japanese	Japanese
+JO	 JOR	400	Jordan		Jordanian	Jordanians
+KZ	 KAZ	398	Kazakhstan		Kazakh, Kazakhstani	Kazakhstanis, Kazakhs
+KE	 KEN	404	Kenya		Kenyan	Kenyans
+KI	 KIR	296	Kiribati		I-Kiribati	I-Kiribati
+KP	 PRK	408	Korea		North Korean	Koreans
+KR	 KOR	410	Korea		South Korean	Koreans
+XK			Kosovo		Kosovar, Kosovan	Kosovars
+KW	 KWT	414	Kuwait		Kuwaiti	Kuwaitis
+KG	 KGZ	417	Kyrgyzstan		Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz	Kyrgyzstanis, Kyrgyz, Kirgiz, Kirghiz
+LA	 LAO	418	Lao People's Democratic Republic		Laotian, Lao	Laotians, Laos
+LV	 LVA	428	Latvia		Latvian	Latvians, Letts
+LB	 LBN	422	Lebanon		Lebanese	Lebanese
+LS	 LSO	426	Lesotho		Basotho	Basotho
+LR	 LBR	430	Liberia		Liberian	Liberians
+LY	 LBY	434	Libyan Arab Jamahiriya		Libyan	Libyans
+LI	 LIE	438	Liechtenstein		Liechtenstein	Liechtensteiners
+LT	 LTU	440	Lithuania		Lithuanian	Lithuanians
+LU	 LUX	442	Luxembourg		Luxembourg, Luxembourgish	Luxembourgers
+MO	 MAC	446	Macao		Macanese, Chinese	Macanese, Chinese
+MK	 MKD	807	Macedonia		Macedonian	Macedonians
+MG	 MDG	450	Madagascar		Malagasy	Malagasy
+MW	 MWI	454	Malawi		Malawian	Malawians
+MY	 MYS	458	Malaysia		Malaysian	Malaysians
+MV	 MDV	462	Maldives		Maldivian	Maldivians
+ML	 MLI	466	Mali		Malian	Malians
+MT	 MLT	470	Malta		Maltese	Maltese
+MH	 MHL	584	Marshall Islands		Marshallese	Marshallese
+MQ	 MTQ	474	Martinique		Martiniquais, Martinican	Martiniquais
+MR	 MRT	478	Mauritania		Mauritanian	Mauritanians
+MU	 MUS	480	Mauritius		Mauritian	Mauritians
+YT	 MYT	175	Mayotte		Mahoran	Mahorais
+MX	 MEX	484	Mexico		Mexican	Mexicans
+FM	 FSM	583	Micronesia	Micronesia	Micronesian	Micronesians
+MD	 MDA	498	Moldova		Moldovan	Moldovans
+MC	 MCO	492	Monaco		Monégasque, Monacan	Monégasques, Monacans
+MN	 MNG	496	Mongolia		Mongolian	Mongolians, Mongols
+ME	 MNE	499	Montenegro		Montenegrin	Montenegrins
+MS	 MSR	500	Montserrat		Montserratian	Montserratians
+MA	 MAR	504	Morocco		Moroccan	Moroccans
+MZ	 MOZ	508	Mozambique		Mozambican	Mozambicans
+NA	 NAM	516	Namibia		Namibian	Namibians
+NR	 NRU	520	Nauru		Nauruan	Nauruans
+NP	 NPL	524	Nepal		Nepali	Nepalese
+NL	 NLD	528	Netherlands		Dutch	Dutch
+NC	 NCL	540	New Caledonia		New Caledonian	New Caledonians
+NZ	 NZL	554	New Zealand		New Zealand, kiwi	New Zealanders, kiwis
+NI	 NIC	558	Nicaragua		Nicaraguan	Nicaraguans
+NE	 NER	562	Niger		Nigerien	Nigeriens
+NG	 NGA	566	Nigeria		Nigerian	Nigerians
+NU	 NIU	570	Niue		Niuean	Niueans
+NO	 NOR	578	Norway		Norwegian	Norwegians
+OM	 OMN	512	Oman		Omani	Omanis
+PK	 PAK	586	Pakistan		Pakistani	Pakistanis
+PS	 PSE	275	Palestine	Occupied Palestinian Territory, Israeli-occupied territories	Palestinian	Palestinians
+PW	 PLW	585	Palau		Palauan	Palauans
+PA	 PAN	591	Panama		Panamanian	Panamanians
+PG	 PNG	598	Papua New Guinea		Papua New Guinean, Papuan	Papua New Guineans, Papuans
+PY	 PRY	600	Paraguay		Paraguayan	Paraguayans
+PE	 PER	604	Peru		Peruvian	Peruvians
+PH	 PHL	608	Philippines		Philippine, Filipino	Filipinos, Filipinas
+PN	 PCN	612	Pitcairn		Pitcairn Island	Pitcairn Islanders
+PL	 POL	616	Poland		Polish	Poles
+PT	 PRT	620	Portugal		Portuguese	Portuguese
+PR	 PRI	630	Puerto Rico		Puerto Rican	Puerto Ricans, Boricuas
+QA	 QAT	634	Qatar		Qatari	Qataris
+RE	 REU	638	Reunion		Réunionese, Réunionnais	Réunionese, Réunionnais
+RO	 ROU	642	Romania		Romanian	Romanians
+RU	 RUS	643	Russian Federation		Russian	Russians
+RW	 RWA	646	Rwanda		Rwandan	Rwandans
+BL	 BLM	703	Saint Barthelemy	Saint Barts, Saint Barths	Barthélemoise	Barthélemoise
+SH	 SHN	654	Saint Helena		St. Helenian	St. Helenians
+KN	 KNA	659	Saint Kitts and Nevis		Kittitian, Nevisian	Kittitians, Nevisians
+LC	 LCA	662	Saint Lucia		St. Lucian	St. Lucians
+MF	 SPM	666	Saint Pierre and Miquelon		Saint-Pierrais, Miquelonnais	Saint-Pierrais, Miquelonnais
+VC	 VCT	670	Saint Vincent and The Grenadines		St. Vincentian, Vincentian	St. Vincentians, Vincentians
+WS	 WSM	882	Samoa		Samoan	Samoans
+SM	 SMR	674	San Marino		Sammarinese	Sammarinese
+ST	 STP	678	Sao Tome and Principe		São Toméan	São Toméans
+SA	 SAU	682	Saudi Arabia		Saudi, Saudi Arabian	Saudis, Saudi Arabians
+SN	 SEN	686	Senegal		Senegalese	Senegalese
+RS	 SRB	688	Serbia		Serbian	Serbians, Serbs
+SC	 SYC	690	Seychelles		Seychellois	Seychellois
+SL	 SLE	694	Sierra Leone		Sierra Leonean	Sierra Leoneans
+SG	 SGP	702	Singapore		Singapore	Singaporeans
+SK	 SVK	703	Slovakia		Slovak	Slovaks
+SI	 SVN	705	Slovenia		Slovenian, Slovene	Slovenians, Slovenes
+SB	 SLB	90	Solomon Islands		Solomon Island	Solomon Islanders
+SO	 SOM	706	Somalia		Somali	Somalian, Somalis
+ZA	 ZAF	710	South Africa		South African	South Africans
+SS	 SSD	728	South Sudan		South Sudanese	South Sudanese
+ES	 ESP	724	Spain		Spanish	Spaniards
+LK	 LKA	144	Sri Lanka		Sri Lankan	Sri Lankans
+SD	 SDN	729	Sudan		Sudanese	Sudanese
+SR	 SUR	740	Suriname		Surinamese	Surinamers
+SZ	 SWZ	748	Swaziland		Swazi	Swazis
+SE	 SWE	752	Sweden		Swedish	Swedes
+CH	 CHE	756	Switzerland		Swiss	Swiss
+SY	 SYR	760	Syrian Arab Republic		Syrian	Syrians
+TW	 TWN	158	Taiwan		Taiwanese	Taiwanese
+TJ	 TJK	762	Tajikistan		Tajikistani	Tajikistanis, Tajiks
+TZ	 TZA	834	Tanzania		Tanzanian	Tanzanians
+TH	 THA	764	Thailand		Thai	Thai
+TL	 TLS	626	Timor-Leste		Timorese	Timorese
+TG	 TGO	768	Togo		Togolese	Togolese
+TK	 TKL	772	Tokelau		Tokelauan	Tokelauan
+TO	 TON	776	Tonga		Tongan	Tongans
+TT	 TTO	780	Trinidad and Tobago		Trinidadian, Tobagonian	Trinidadians, Tobagonians, Trinis, Trinibagonian
+TN	 TUN	788	Tunisia		Tunisian	Tunisians
+TR	 TUR	792	Turkey		Turkish	Turks
+TM	 TKM	795	Turkmenistan		Turkmen	Turkmens
+TC	 TCA	796	Turks and Caicos Islands	Turks Islands, Caicos Islands		Turks and Caicos Islanders, Turks Islanders, Caicos Islanders
+TV	 TUV	798	Tuvalu		Tuvaluan	Tuvaluans
+UG	 UGA	800	Uganda		Ugandan	Ugandans
+UA	 UKR	804	Ukraine		Ukrainian	Ukrainians
+AE	 ARE	784	United Arab Emirates		Emirati, Emirian	Emiratis, Emirians
+GB	 GBR	826	United Kingdom	UK, U.K, Great Britain, Britain	British, Scotish, Irish, English, Welsh	Britons, Scotish, Irish, English, Welsh
+US	 USA	840	United States	USA, U.S.A	Americanj, U.S.	Americansk
+UM	 UMI	581	United States Minor Outlying Islands		American Islander	American Islander
+UY	 URY	858	Uruguay		Uruguayan	Uruguayans
+UZ	 UZB	860	Uzbekistan		Uzbekistani, Uzbek	Uzbekistanis, Uzbeks
+VU	 VUT	548	Vanuatu		Ni-Vanuatu, Vanuatuan	Ni-Vanuatu
+VE	 VEN	862	Venezuela		Venezuelan	Venezuelans
+VN	 VNM	704	Viet Nam		Vietnamese	Vietnamese
+VG	 VGB	92	British Virgin Islands		British Virgin Island	British Virgin Islanders
+VI	 VIR	850	United States Virgin Islands		Virgin Island	Virgin Islanders
+WF	 WLF	876	Wallis and Futuna		Wallisian, Futunan	Wallisians, Futunans
+EH	 ESH	732	Western Sahara		Sahraw, Sahrawian, Sahraouian	Sahrawis, Sahraouis
+YE	 YEM	887	Yemen		Yemeni	Yemenis
+ZM	 ZMB	894	Zambia		Zambian	Zambians
+ZW	 ZWE	716	Zimbabwe		Zimbabwean	Zimbabweans
